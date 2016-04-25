@@ -1,0 +1,41 @@
+SECT. 11.
+
+74 DE HOMINE.
+
+8. Si in visione directa datum sit punctum eva->
+nescentiae, dabitur etiam locus apparens objecti visi
+per dioptrum sphaerice concavum.
+
+Sit (in figura quinta) dioptrum sphaerice con-
+cavum A Β, centrum retinae C, objectum D E:
+punctumque D sit in axe optico C F secante utram-
+que dioptri superficiem perpendiculariter in, H et I:
+sitque punctum F punctum evanescentiae in visione
+directa. Ducatur radius E G, qui juxta leges re-
+fractionis refringatur ad K et inde ad C. Produ-
+catur visualis C K donec occurrat objecto D E in L,
+et rectae D L sumatur parallela et aequalis C M.
+Ducatur deinde M F, quae secet visualem C K pro-
+ductam in N. Sumatur rursus quodlibet aliud ob-
+J‘ecti punctum O, a quo radius O P refringatur ad
+Q, et rursus ad C, et producta sit visualis C Q,
+donec occurrat objecto D E in R. Deinde sumpta
+C S aequali rectae D R, ducatur S F secans visualem
+C R in T. Ducta demum N T et producta ad axem
+in V, dico punctum E appariturum in N, punctum
+O in T, et totum objectum D E in N V.
+
+Nam si D L esset objectum visum visione directa,
+appareret in V N. Supponitur enim F esse punctum
+evanescentiae, et D L, M C esse aequalia3 et proinde
+punctum L videretur in N, et punctum D in axe ad
+punctum V. Sed D E visum per dioptrum videtur
+sub eodem angulo visorio, sub quo angulo videtur
+DL absque dioptro, et sunt objecta DE, DL in
+eadem ab oculo distantia; videtur itaque D E, D L,
+alterum per dioptrum, alterum sine dioptro in
+eodem loco. Sed sine dioptro videtur D L in V N;
+ergo etiam in V N videbitur D E per dioptrum.
+Eadem ratiocinatione ostenditur D Ο apparere in
+VT; nam CS sumitur aequalis rectae DR, exis-
+

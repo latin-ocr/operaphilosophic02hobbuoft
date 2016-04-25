@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaphilosophic02hobbuoft_0008.png"; bbox 0 0 1988 3178; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 643 1705 1397 1788">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 643 1705 1397 1788">
+     <span class='ocr_line' id='line_1_1' title="bbox 928 1705 1267 1733; baseline 0.003 -5"><span class='ocrx_word' id='word_1_1' title='bbox 928 1705 1075 1729; x_wconf 56' lang='lat' dir='ltr'>mmmm:</span> <span class='ocrx_word' id='word_1_2' title='bbox 1176 1714 1182 1725; x_wconf 50' lang='grc' dir='ltr'><em>ε</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1194 1720 1213 1733; x_wconf 38' lang='lat'><strong>-2</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1264 1727 1267 1729; x_wconf 12' lang='grc' dir='ltr'>μ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 643 1736 1397 1788; baseline -0.004 -10"><span class='ocrx_word' id='word_1_5' title='bbox 643 1756 731 1778; x_wconf 71' lang='grc' dir='ltr'><strong>πω</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 748 1757 776 1778; x_wconf 85' lang='lat' dir='ltr'><strong>c.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 793 1756 959 1784; x_wconf 67' lang='lat' dir='ltr'><strong>memnon,</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 972 1750 1032 1784; x_wconf 76' lang='lat'><strong>100,</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1049 1756 1091 1778; x_wconf 67' lang='lat' dir='ltr'><strong>ar.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1109 1751 1255 1779; x_wconf 68' lang='lat' dir='ltr'><strong>unm&#39;u</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1269 1754 1361 1788; x_wconf 60' lang='lat' dir='ltr'><strong>nn.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1395 1736 1397 1738; x_wconf 56' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 994 1817 1003 1830">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 994 1817 1003 1830">
+     <span class='ocr_line' id='line_1_3' title="bbox 994 1817 1003 1830; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 994 1817 1003 1830; x_wconf 71' lang='grc' dir='ltr'><strong>ΖΙ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1988 3178">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1988 3178">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1988 3178; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1988 3178; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
